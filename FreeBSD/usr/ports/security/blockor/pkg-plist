@@ -1,0 +1,6 @@
+bin/blockor
+libexec/blockor/blockord.sh
+etc/blockor.conf
+share/examples/blockor/blockor.example.conf
+man/man8/blockor.8.gz
+etc/rc.d/blockord
